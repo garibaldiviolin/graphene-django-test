@@ -1,0 +1,7 @@
+[run]
+omit =
+    src/core/apps.py
+    src/manage.py
+    src/graphene_django_test/asgi.py
+    src/graphene_django_test/wsgi.py
+    */migrations/*.py
